@@ -1,0 +1,9 @@
+# Local device addresses — never publish
+devices.env
+
+# Personal photos — never publish
+wallpapers/
+wallpapers-tv/
+
+# Temp dumps from ADB UI inspection
+ui.xml
